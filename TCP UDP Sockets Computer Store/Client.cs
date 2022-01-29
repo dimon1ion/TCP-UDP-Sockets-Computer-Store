@@ -37,7 +37,6 @@ namespace TCP_UDP_Sockets_Computer_Store
             this.EndPoint = endPoint;
             timer.Elapsed += Tick;
             count = 0;
-            System.Windows.Forms.MessageBox.Show(TimeSpan.FromMinutes(1).TotalMilliseconds.ToString());
         }
 
         private void Tick(object sender, ElapsedEventArgs e)
