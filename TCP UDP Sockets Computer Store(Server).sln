@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TCP UDP Sockets Computer Store(Server)", "TCP UDP Sockets Computer Store\TCP UDP Sockets Computer Store(Server).csproj", "{8A737B39-48DB-475E-977F-9C9A94AB2240}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TCP UDP Sockets Computer Store(Client)", "TCP UDP Sockets Computer Store(Client)\TCP UDP Sockets Computer Store(Client).csproj", "{D5D35D5C-E5D9-4BD0-ACC1-599D4FFDF2CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8A737B39-48DB-475E-977F-9C9A94AB2240}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A737B39-48DB-475E-977F-9C9A94AB2240}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A737B39-48DB-475E-977F-9C9A94AB2240}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A737B39-48DB-475E-977F-9C9A94AB2240}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5D35D5C-E5D9-4BD0-ACC1-599D4FFDF2CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5D35D5C-E5D9-4BD0-ACC1-599D4FFDF2CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5D35D5C-E5D9-4BD0-ACC1-599D4FFDF2CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5D35D5C-E5D9-4BD0-ACC1-599D4FFDF2CA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6B52BC46-22BD-4BA6-97DB-79FA4B4C4BDF}
+	EndGlobalSection
+EndGlobal
